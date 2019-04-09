@@ -168,6 +168,26 @@
 
 # Jainism
 
+## Jina
+
+## Mahavira
+
+## Tirthankara
+
+## Ahisma
+
+## Jiva
+
+## Sallekhana
+
+## Punya
+
+## Characterization of Karma Within Jain Narrative Tradition
+
+## Key Words in Texts
+
+- jina
+
 
 
 
