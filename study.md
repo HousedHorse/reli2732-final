@@ -2,8 +2,8 @@
 
 ## Karma
 
-- action
-- early understanding: *ritual* action/sacrifice
+- vedic -> *ritual* action/sacrifice
+- upanishadic -> all action
 
 ## Dharma
 
@@ -215,11 +215,10 @@
 
 ## Sallekhana
 
-- hollowing out
-- permanently sever connection between body and jivas
 - the idealized form of death
 - gradually take in less and less sustenance until you die
     - goal: be reciting a mantra when you die
+- permanently sever connection between body and jivas
 
 ## Punya
 
@@ -254,6 +253,10 @@
 
 
 # Early Buddhism
+
+https://vod.cuol.ca/vod/vod-lectures?course=RELI+2732&term=201910&crn=14617
+
+1:06:44
 
 
 
