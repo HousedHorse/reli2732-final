@@ -100,6 +100,10 @@
 ## Shraddha
 
 - memorial rites
+- pinda: balls of rice
+    - offered to help make a body for the deceased in the world of ancestors
+- cremation
+- cracking of the skull or ceramic pot to allow soul to escape
 
 ## Vedic, Upanishadic, Devotional Understandings of Death and the Afterlife
 
@@ -168,25 +172,79 @@
 
 # Jainism
 
+## Asceticism
+
+- renouncing physical aspects of life
+- food, clothing, water, sex, etc.
+
 ## Jina
+
+- *conqueror*
+- not physical conquest
+- conquerors of the mind / human nature / death
 
 ## Mahavira
 
+- founder of Jainism
+- rejected caste system
+- rejected vedic ritual
+- karma is *action*, not ritual action
+
 ## Tirthankara
+
+- religious teacher
+- "ford-maker"
+    - make a path across the water
+- 24 of them
+- Mahavira is the 24th
 
 ## Ahisma
 
+- vow of non-violence
+- central ethical pillar of jainism
+
 ## Jiva
+
+- souls
+- dualism between jiva and matter
+- karma is material
+    - jiva = soul, karma = material
+    - moist jiva attracts karma
+- a soul for each sense
+    - all living things have at least one
 
 ## Sallekhana
 
+- hollowing out
+- permanently sever connection between body and jivas
+- the idealized form of death
+- gradually take in less and less sustenance until you die
+    - goal: be reciting a mantra when you die
+
 ## Punya
 
+- earned when our activities are good
+- opposite of pap
+- helps bring happiness in future lives
+- helps burn away some karma
+
 ## Characterization of Karma Within Jain Narrative Tradition
+
+- all karma is bad karma
+- needs to be discarded or burned away to attain moksha
+- karma weighs you down and prevents you from rising to escape samsara
 
 ## Key Words in Texts
 
 - jina
+- jiva
+- sallekhana
+- punya
+- pap
+- mahavira
+- tithankara
+- talking about things being repugnant
+- talking about the human body being disgusting or vile
 
 
 
