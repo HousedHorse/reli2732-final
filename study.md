@@ -387,7 +387,7 @@ Discuss: the form of liberation posited in Tibetan Buddhism, the symbolism of Ti
 - Will the sacrifice they make be 'ling'  
 - Ling is linked to the creation of new gods
 
-##The Extrahuman Realm
+## The Extrahuman Realm
 
 - Spiritualistic cosmology
 - The gods were not divine beings
