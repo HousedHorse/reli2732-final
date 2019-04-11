@@ -461,9 +461,9 @@ Discuss: the form of liberation posited in Tibetan Buddhism, the symbolism of Ti
   - It presumes a unified character of grief (sequential)
   - That every person grieves the same way (normative) 
 
-##Bonanno’s Theory of grief
+## Bonanno’s Theory of grief
 
--Grief doesn't follow a linear sequence
+- Grief doesn't follow a linear sequence
 - **Found that there are 3 general apporaches to grief**
   - Chronic grief
     - No matter how hard or much time has passed, the grief continues to feel
@@ -479,7 +479,7 @@ Discuss: the form of liberation posited in Tibetan Buddhism, the symbolism of Ti
     - It's not that they don't care they put the pain aside to meet the demands 
     of life
 
-##Lifton and Olson on “symbolic immortality,” 
+## Lifton and Olson on “Symbolic Immortality” 
 
 - The fear of death is a drive
 - Humans feel a drive of continuity, that they will survive this present moment
@@ -502,13 +502,13 @@ fear of death
     meditation, psychedelic drugs, etc. 
   - Redefines how death is seen or interpreted  
 
-##The Most Common Causes of Death in the 21st Century
+## The Most Common Causes of Death in the 21st Century
 
 - Cancer
 - Major cause of the the rise of cancer because humans live longer
-  -Therefore affects more older people
+  - Therefore affects more older people
 
-##Bill C-14
+## Bill C-14
 
 - In 2016 allows physicsian assisted suicide
 - Under this laws nurse practioners or  physicians may provide a substance to end
@@ -519,13 +519,13 @@ their own life
 - Need to have a grievance and irredeemable condition
 - Need to give conform consent
 
-##20th- and 21st-century changes in Canadian approaches to (and understandings of) death 
+## 20th- and 21st-century changes in Canadian approaches to (and understandings of) death 
 
 - Medicalization
   - The removal of death from a familial personal context to an insitutional
   medical one
   - For the majority of candians 78% were dying in hospitals (1944)
--Professionalization
+- Professionalization
   - The removal of family with managing death and all those responsiblies
   are now on prfessionals
   - The preparing/cleaning of the body is not done by family members anymores 
@@ -533,7 +533,7 @@ their own life
 -Bureaucratization
   - The laws and precedures that surrounds death in canada
 
-##Disenfranchised grief
+## Disenfranchised Grief
 
 - The death of someone you had an affair with for example is not acknoledged
   - Their grief is not supported by society
@@ -543,7 +543,7 @@ their own life
     - Only other people who have gone through that can understand
     - ex: disenfranchised grief
 
-##The “phase of negated death,” 
+## The “phase of negated death,” 
 
 - The liminal state between the death of the individual and their funeral service
 - The deceased person is in a liminal state of death and life
@@ -555,7 +555,7 @@ their own life
   - There's a wake where the funeral is going to be carried out
   - The deceased person is talked to like they are alive
     - Their spirit is still there
-##muen
+## Muen
 - "Without bonds," "Without ties"
 - The fear of "muen"
   - The fear of being forgotten
@@ -566,7 +566,7 @@ their own life
   - Then the grave can be used by another family
 
 
-##The similarities and differences between funerary practice in contemporary Canada and Japan (case study)
+## The similarities and differences between funerary practice in contemporary Canada and Japan (case study)
 
 - The cost of a funeral in Japan is the same as a reasonable quality car
 - We distance ourselves from the dead
