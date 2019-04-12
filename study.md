@@ -326,8 +326,7 @@ https://vod.cuol.ca/vod/vod-lectures?course=RELI+2732&term=201910&crn=14617
 
 - The Buddha of Infinite Life thought to have created the Pure Land
 - Cosmic Buddha and reside in their own realm
-- Made 48 vows
-  -
+- Made 48 vows before he died
 
 ## The Pure Land
 
