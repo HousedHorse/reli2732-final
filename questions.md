@@ -851,6 +851,9 @@
 
 37. Identify the tradition associated with the following passage:
 
+> ...
+> Also we invite the Supreme Lord of the High Storehouse and his ten thousand troops. On behalf of {so-and-so's) household they are to apprehend and place under their control those demons of the five tombs that come and go, wounding and killing, attaching themselves to the descendants and causing harmful anomalies and calamitous injuries, making {so-and-so) ill to the point that his deadly wounds are unceasing. Annihilate them all.
+
 - A) Vedic Hinduism
 - B) Upanishadic Hinduism
 - C) Devotional Hinduism
@@ -1438,20 +1441,6 @@
 > another, or new sepulchers striking against one another. The months and years having passed long away, the heirs would be unaware [of
 > the problem].
 
-
-- A) Vedic Hinduism
-- B) Upanishadic Hinduism
-- C) Devotional Hinduism
-- D) Jainism
-- E) Early Buddhism
-- F) Mahayana Buddhism
-- G) Vajrayana Buddhism
-- H) Chinese Religion
-
-73. Identify the tradition associated with the following passage:
-
-> ...
-> Also we invite the Supreme Lord of the High Storehouse and his ten thousand troops. On behalf of {so-and-so's) household they are to apprehend and place under their control those demons of the five tombs that come and go, wounding and killing, attaching themselves to the descendants and causing harmful anomalies and calamitous injuries, making {so-and-so) ill to the point that his deadly wounds are unceasing. Annihilate them all.
 
 - A) Vedic Hinduism
 - B) Upanishadic Hinduism
