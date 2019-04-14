@@ -20,6 +20,9 @@
 1. Jainism is considered a renunciant religion.
     - A) True
     - B) False
+1. The Jain consider the human body and all its fluids and functions to be disgusting.
+    - A) True
+    - B) False
 
 ## Multiple Choice
 
