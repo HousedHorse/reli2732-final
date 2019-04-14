@@ -267,7 +267,7 @@
     - sets up a life of ease in the palace
     - but one day Siddhartha goes out to see the world
 
-### The Four Sights
+### What Did He See?
 
 - sees an old man
 - sees a sick man
@@ -293,10 +293,20 @@
 
 - perfect enlightenment
 - similar to moksha in Hinduism and Jainism
+- no longer generating karma, but still alive
 
 ## Parinirvana
 
+- final, ultimate Nirvana
+- die after achieving Nirvana
+
 ## Anatman
+
+- "no" atman
+- "no" jiva
+- no souls
+- no immortal souls
+- no Brahman within
 
 ## Dependent Origination
 
@@ -305,6 +315,8 @@
 ## The Four Noble Truths
 
 ## Sangha
+
+- community of monks and nuns in Buddhism
 
 ## Jataka
 
@@ -395,13 +407,17 @@
     - 10 -> 3 years
     - Must sponsor 10 festivals
 - Importance of transfer of merit
+
 ## The Buddha of Infinite Life (Amitabha / Emituo / Amida)
 
 -
 
 ## The Pure Land
+
 ## The Japanese Pure Land traditions
-## “funeral Buddhism” in Japan
+
+## “Funeral Buddhism” in Japan
+
  the rituals associated with the Scripture on the Ten Kings, the connection between the “decline of the dharma” and Pure Land Practice in Japan, the role of miracle stories in promulgating Buddhist doctrines and practices in East Asia
 
 
