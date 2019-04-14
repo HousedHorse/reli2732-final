@@ -140,9 +140,6 @@
     - C) The chief Brahmin of a village
     - D) A and B
     - E) None of the above
-
----
-
 1. The rite of renunciation in Hinduism involves which of the following?
     - A) A fake cremation
     - B) Discarding of one's novice robes
