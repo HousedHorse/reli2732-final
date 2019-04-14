@@ -439,12 +439,12 @@
 
 # Mahayana Buddhism
 
-## The redefinition of “bodhisattva” and “buddha” in the Mahayana context 
+## The redefinition of “bodhisattva” and “buddha” in the Mahayana context
 
 - Bodhisattva
   - The development of a new soteriology (the theory of salvation)
   - Early buddhism there wad no soteriology
-  - Your own decisions, effort and relgious practise determines if you get out 
+  - Your own decisions, effort and relgious practise determines if you get out
   of Samsara
     - Not a soteriology
   - Bodhisattava: Any being  who wants to save all living beings
@@ -465,15 +465,15 @@
 - Was meditating in a celestial realm when suddenly he hears someone call for his help
 - He reaches his arm down to help and he keeps extending his arms as he hears
   more people cry for help
-- Can generate more arms to reach down to people  
-- His role is to dwell in the celestial realm to listen to people who need help    
+- Can generate more arms to reach down to people
+- His role is to dwell in the celestial realm to listen to people who need help
 
 ## Kshitigarbha [/ Dizang / Jizo]
 
 - Another bodhisattava
 - The earth store or earth womb
 - He is understood to descend into the hell realm and benefit those who are stuck there
-- His primary task is to aid those who are stuck in hell 
+- His primary task is to aid those who are stuck in hell
 - Jizo (the japanses version)
   - Invovled in a form of funeral practices for aborted fetuses
 
@@ -484,9 +484,9 @@
 - The systems will come apart at your death
   - Madhyamaka takes that thought and applies it all things that exists
   - Nothing has an independent self existence
-  - Everything that exists is related to something else 
+  - Everything that exists is related to something else
 - Everything can be broken down into and is dependent on contingent parts
-  - Each is tied to a long causual process that allows you to exists in the first 
+  - Each is tied to a long causual process that allows you to exists in the first
   place
 
 - If everything that exists in the universe and any other universe is empty
@@ -498,23 +498,21 @@
 
 - Snakes in the rafters that may fall down
 - Basement is full of pottery shards and can fall through the floors
-- A man lives there with his three children 
+- A man lives there with his three children
 - He had to go to the store
 - On the way home he sae his house was on fire and runs home
 - He gets to the door and the door is so narrow so he can't pick up his children
   and leave
-- He yells at them to run outside but they say no they're playing in the burning house  
+- He yells at them to run outside but they say no they're playing in the burning house
 - The kids like playing with carts so he persuades them with different carts
-  for each children to come outside 
-- Then the kids run outside 
+  for each children to come outside
+- Then the kids run outside
 - Symbolizes we're all going to die
   - But having too much fun to worry about it
   - The father is offering a vehicle to get away from the house
   - The buddha is trying to argue that the father didn't lie to the children
   - There was a cart outside and he had to get them outside
-- This uses the idea that the buddha teaches differently depending on who's listening  
-
-# Mahayana Buddhism II
+- This uses the idea that the buddha teaches differently depending on who's listening
 
 ## The Ghost Festival in East Asia
 
