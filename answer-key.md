@@ -1,6 +1,6 @@
 # Practice Questions Answer Key
 
-[Click here for the original questions.][questions.md]
+[Click here for the original questions.](questions.md)
 
 ## True/False
 
