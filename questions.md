@@ -1,6 +1,6 @@
 # Practice Questions
 
-[Click here for answers.][answer-key.md]
+[Click here for answers.](answer-key.md)
 
 ## True/False
 
