@@ -40,9 +40,6 @@
 1. Jain is the founder of Jainism.
     - A) True
     - B) False
-
----
-
 1. A Thirthankara can be translated as a maker of fords. It is a religious teacher in Jainism.
     - A) True
     - B) False
@@ -79,7 +76,7 @@
 1. A Buddhist relic is a piece of the Buddha's body.
     - A) True
     - B) False
-1. Stupas house pieces of the Buddha's body and pieces of the Arhat's bodies as well.
+1. Stupas house pieces of the Buddha's body and pieces of the Arhats' bodies as well.
     - A) True
     - B) False
 1. A Buddha only comes once every thousand years.
@@ -94,6 +91,8 @@
 1. The Jataka are texts that reveal how one might become a Buddha.
     - A) True
     - B) False
+
+---
 
 
 
@@ -187,10 +186,10 @@
     - C) Exist(s) only as a temporary place(s) to discard bad karma
     - D) Involve(s) punishments corresponding to sins in life
     - E) All of the above
-1. Mahavira was \_\_\_\_\_\_\_\_\_\_.
-    - A) The founder of Jainism
-    - B) A Thirthankara
-    - C) A Jina
+1. Mahavira \_\_\_\_\_\_\_\_\_\_.
+    - A) Was the founder of Jainism
+    - B) Was a Thirthankara
+    - C) Was a Jina
     - D) Rejected the caste system of the Aryans, along with Vedic ritual, and redefined karma
     - E) All of the above
     - F) Only A, B, and D
@@ -223,7 +222,7 @@
 1. The Great Departure is/was \_\_\_\_\_\_\_\_\_\_.
     - A) A period of mourning after a loved one has passed on
     - B) Prince Siddhartha's decision to leave the comforts of his palace and pursue a life of asceticism
-    - C) The Bodhisattva's decision to leave the renunciants\_ and follow the middle way
+    - C) The Bodhisattva's decision to leave the renunciants and follow the middle way
     - D) When the Bodhisattva reached parinirvana and became the Buddha
 1. The Buddha saw \_\_\_\_\_\_\_\_\_\_.
     - A) A dying old man, a sick girl, a monk, and a starving wolf
