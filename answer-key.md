@@ -9,6 +9,10 @@
 1. False
 1. True
 1. True
+1. False
+1. True
+1. True
+1. True
 
 ## Multiple Choice
 

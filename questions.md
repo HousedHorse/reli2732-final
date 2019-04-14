@@ -23,6 +23,18 @@
 1. The Jain consider the human body and all its fluids and functions to be disgusting.
     - A) True
     - B) False
+1. The Jain believe in good karma and bad karma.
+    - A) True
+    - B) False
+1. Asceticism is the act of renouncing the physical aspects of life, such as food, clothing, water, sex, etc.
+    - A) True
+    - B) False
+1. Mahavira is the 24th Tirthankara.
+    - A) True
+    - B) False
+1. Ahisma is a vow of non-violence.
+    - A) True
+    - B) False
 
 ## Multiple Choice
 
