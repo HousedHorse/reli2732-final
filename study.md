@@ -570,7 +570,7 @@
 - Buddhism is associated with death
 - During the edo period (1600 -1868)
 - Danka system: Every family needed to be linked to a buddhist temple
-  - To prosecut christianity
+  - To persecute christianity
 - Social system where buddhist temples and monastaries start to rely on their
   Danka and their performance as funeral rights as their primary source of revenue
 - Continued until the 20th century
