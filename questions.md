@@ -1,5 +1,7 @@
 # Practice Questions
 
+[Click here for answers.][answer-key.md]
+
 ## True/False
 
 1. Karma was considered purely ritual action in the *Upanishadic* Hindu tradition.
