@@ -3,6 +3,7 @@
 ## How to View
 
 - [Click here](study.md) to view the notes so far
+- I have also added [some practice questions](questions.md) and [an answer key](answers.md)
 
 ## How to Contribute
 
