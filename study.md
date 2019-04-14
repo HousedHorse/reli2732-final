@@ -346,6 +346,9 @@
 ## Transfer of Merit
 
 - generate merit
+- mental action to wish merit transferred to the deceased
+- merit is not lost from the giver, but still received by the receiver
+- analogous to feeding ancestors in Hinduism
 
 ## Relic
 
@@ -367,6 +370,7 @@
 - mediate to engage with impermanence of the human body
 - body is made up of elements
     - dependent origination
+- transfer or merit
 
 ## Sangha
 
@@ -401,6 +405,7 @@
 - preda (hungry ghosts)
     - Hinduism -> ancestors not being fed properly
     - Buddhism -> reborn as a hungry ghost based on karma
+- gods
 
 ## Idealized Path of Arhat vs Common Path of Good Walks
 
@@ -412,7 +417,15 @@
 
 ## Perfect Generosity in Hare Jataka
 
+- bodhisattva gave his life to feed the tiger so it could have good karma
+- gave his head to the corrupt brahmin
+- rabbit shook off fleas and threw himself on the first to be eaten
+- self sacrifice as a form of generosity
+
 ## Symbolism and Ritual Forms of Theravada Funeral
+
+- transfer of merit to the departed
+- reminder of life's impermanence
 
 ## Key Words in Texts
 
@@ -477,36 +490,139 @@
 
 ## The Buddha of Infinite Life (Amitabha / Emituo / Amida)
 
--
+- The Buddha of Infinite Life thought to have created the Pure Land
+- Cosmic Buddha and reside in their own realm
+- Made 48 vows before he died
 
 ## The Pure Land
 
+- Pure Land != Heaven
+- The Pure Land is not part of the cycle of Samsara
+  - Once you are born in the Pure Land you are out of the cycle
+  - Never again experience an unpleasant rebirth
+  - Perfect karma, can achieve enlightenment
+  - No sex (only male)
+
+- If you only chant the name of Amitabha Buddha
+  - Grants you rebirth in the Pure Land
+
 ## The Japanese Pure Land traditions
+
+- "The Decline of Dharma" 3 ages:
+  1. True Dharma
+    - The time of the buddhas life
+    - The era in which it is possible to follow the teachings of the buddha correctly
+  2. Semblance Dharma
+    - The buddhas teaching is becoming forgotten
+    - Teachings not quite right
+    - People still trying to be buddhist
+  3. End of Dharma
+    - Buddhist teaching died out
+    - Impossible to be buddhist
+  - Sometime in the unknowable future new buddha is born
+  - Each stage is eons in life
+
+- Jodo Shu (Pure Land School) and Jodo Shinshu (New Pure Land School)
+  - Focus on exclusive practice of chanting the buddha
 
 ## “Funeral Buddhism” in Japan
 
- the rituals associated with the Scripture on the Ten Kings, the connection between the “decline of the dharma” and Pure Land Practice in Japan, the role of miracle stories in promulgating Buddhist doctrines and practices in East Asia
+- Buddhism is associated with death
+- During the edo period (1600 -1868)
+- Danka system: Every family needed to be linked to a buddhist temple
+  - To prosecut christianity
+- Social system where buddhist temples and monastaries start to rely on their
+  Danka and their performance as funeral rights as their primary source of revenue
+- Continued until the 20th century
+- Rebelled by the public
 
 
 
 
 
 
-# Vajrayana Buddhism
+# Vajrayana Buddhism (or Tantric Buddhism)
 
 ## Mandala
 
+- Geometrical arrangements in which use see the depiction of various buddhas
+- Used as a visualization where the meditator will sit and concentrate on the
+  celestial image and imagine themselves merging being one with one of those
+  deities
+- Every living being has innate buddhahood and only our failures that prevent us
+  from realizing this
+- The active visualization helps us realize we're a certain buddha bodhisattva
+  - Mandala helps with this ritual
+
 ## Vajra
+
+- Ritual implement and artistic motif
+- Practitioner's will hold a vajra as a ritual object when performing a ritual
+- Both a trope and a ritual object
 
 ## Delok
 
+- Delok means return from death
+- Individuals (usually women) who have claimed they have experienced going to
+  hell or the realm of ghosts and came back to talk about it
+    - Come back to the living to encourage to practise religion
+    - Only way to be saved
+- Delok tradition shows proof that tibetan buddhism is true
+  - That after death there is judgment and a lord of death
+  - Delok tradition is a narrative tradition that describes this in practise
+
 ## Tulku
+
+- Leadership under lamas -> esp. tulkus
+- Tulku: incarnated lama
+  - That first level body of Buddha
+  - These people are understood to be incarnated to be buddhas or bodhisattva
+  - Ex: Tenzin Gyatso, the 14th Dalai Lama
 
 ## Bardo Thodol
 
+- A book
+- Title means "The Great Liberation"
+- Bardo: intermediate state
+- Thodol: Liberation
+- We pass through many intermediate states (Bardo)
+- In between death and one's next birth
+  - One goes through these intermediate states
+  - The idea is that if you remain your composure at the moment of death
+    they will achieve complete buddhahood
+    - Since we are all buddhas already
+    - Achieve enlightenment
+
 ## Bardo
 
-Discuss: the form of liberation posited in Tibetan Buddhism, the symbolism of Tibetan sky burial
+1. The Bardo of Life
+  - Life is a bardo because it is a liminal state
+  - In between our previous and next birth
+2. The Bardo of Dream
+  - Dreaming is a bardo because you are not in state of perfect non thought and
+    you are not in waking consiousness
+3. The Bardo of Meditation
+4. The Bardo of the Dying Process (end in the moment of death)
+  - All aspects of your body and mind will disintegrate and fall away
+5. The Bardo of After Death (Reality-as-it-is)
+  - A moment when you experience reality as it is
+  - Experience your innate buddhahood
+  - Remain composed then you're out of the cycle of samsara
+  - If you are frightned or for some reason do not remain composed you experience
+    the sixth bardo
+6. The Bardo of the Rebirth Process (ends in the moment of conception)
+  - Lasts 49 days
+  - Then you reneter a new mortal body
+
+## Tibetan Sky Burial
+
+- 'Jhato' giving alms to the birds
+- The body is giving to the benefit to living beings
+- Himalayan Vulture: sacred birds in Tibetan culture
+- Tibetans usually cremate their dead but in some cases the body is offered as
+  food for the birds
+  - Possible that in Tibet ground is too hard to dig
+  - Few trees to provide wood for cremation
 
 
 

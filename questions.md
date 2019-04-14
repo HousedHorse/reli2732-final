@@ -1,6 +1,6 @@
 # Practice Questions
 
-[Click here for answers.](answer-key.md)
+[Click here for answers.][answer-key.md]
 
 ## True/False
 
@@ -40,6 +40,29 @@
 1. Jain is the founder of Jainism.
     - A) True
     - B) False
+
+---
+
+1. Parinirvana comes before nirvana.
+    - A) True
+    - B) False
+1. Prince Siddhartha was a Buddha when he was born.
+    - A) True
+    - B) False
+1. The Bodhisattva saw four things that made him decide to become a renunciant.
+    - A) True
+    - B) False
+1. The Great Departure was when the Buddha left the palace to pursue an ascetic life.
+    - A) True
+    - B) False
+1. Nirvana is analogous to moksha in the Jain and Hindu teachings.
+    - A) True
+    - B) False
+1. Anatman is the idea that the concepts of atman and jivas are vital to Buddhism.
+    - A) True
+    - B) False
+
+
 
 
 
