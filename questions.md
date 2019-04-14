@@ -46,6 +46,9 @@
 1. A Thirthankara can be translated as a maker of fords. It is a religious teacher in Jainism.
     - A) True
     - B) False
+1. Bhakti is the only Hindu path of liberation that is available to both men and women.
+    - A) True
+    - B) False
 1. Parinirvana comes before nirvana.
     - A) True
     - B) False
@@ -120,6 +123,70 @@
     - C) Cleansing oneself in the river
     - D) The body being discarded upon death, rather than burned
     - E) All of the above
+1. Devotional Hinduism teaches the path of bhakti. What is bhakti?
+    - A) Absolute devotion to Vishnu
+    - B) Absolute devotion to all aspects of Brahman
+    - C) Attaining enlightenment by realizing the identity between Atman and Brahman
+    - D) Posthumous reunion with God
+    - E) B and D
+1. The three paths to liberation in the Bhagavad Gita are \_\_\_\_\_\_\_\_\_\_.
+    - A) Path of action, path of karma, path of devotional love
+    - B) Path of love, path of peace, path of absolute glory
+    - C) Path of sallekhana, path of sannyasa, path of asceticism
+    - D) Path of Hinduism, path of Jainism, path of Buddhism
+    - E) None of the above
+1. Hindu and Jain soteriology involve \_\_\_\_\_\_\_\_\_\_, while Buddhist soteriology involves \_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_.
+    - A) Nirvana, parinirvana, moksha
+    - B) Sannyasa, moksha, nirvana
+    - C) Moksha, nirvana, parinirvana
+    - D) Sallekhana, moksha, nirvana
+    - E) None of the above
+1. Shraddha \_\_\_\_\_\_\_\_\_\_.
+    - A) Are Hindu funerary rites
+    - B) Involve offering riceballs known as pinda to prevent hungry ghosts
+    - C) Involve cremation of the deceased
+    - D) Involve cracking the skull of the deceased to allow the Atman to escape
+    - E) Only make sense because reincarnation in Hinduism is not an immediate process
+    - F) All of the above
+    - G) A, B, and C
+1. Which of the following represents, in order, the evolution of modern Hinduism?
+    - A) Devotional, Vedic, Upanishadic
+    - B) Upanishadic, Devotional, Vedic
+    - C) Vedic, Upanishadic, Devotional
+    - D) Jainism, Buddhism, Hinduism
+1. Naraka \_\_\_\_\_\_\_\_\_\_.
+    - A) Is Hindu hell
+    - B) Are Buddhist hells
+    - C) Exist(s) only as a temporary place(s) to discard bad karma
+    - D) Involve(s) punishments corresponding to sins in life
+    - E) All of the above
+1. Mahavira was \_\_\_\_\_\_\_\_\_\_.
+    - A) The founder of Jainism
+    - B) A Thirthankara
+    - C) A Jina
+    - D) Rejected the caste system of the Aryans, along with Vedic ritual, and redefined karma
+    - E) All of the above
+    - F) Only A, B, and D
+1. A core principle of Jainism is \_\_\_\_\_\_\_\_\_\_.
+    - A) Ahisma
+    - B) Asceticism
+    - C) The dualism between Jiva and karma
+    - D) The idea that karma is a physical substance
+    - E) All of above
+    - F) Only A, B, and D
+1. Punya is/are \_\_\_\_\_\_\_\_\_\_.
+    - A) Good karma
+    - B) Earned by doing good actions
+    - C) The opposite of pap
+    - D) Helps bring happiness in the next life
+    - E) All of the above
+    - F) Only B, C, and D
+1. Which of the following statements about Jainism is **FALSE**?
+    - A) All karma is bad
+    - B) Karma is a physical substance to be burned away or discarded
+    - C) Punya helps burn away karma upon death
+    - D) Karma keeps you from rising to escape samsara
+    - E) All of the above are **TRUE** about Jainism (there was no false statement)
 
 
 
