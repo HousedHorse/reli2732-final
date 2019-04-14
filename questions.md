@@ -67,6 +67,33 @@
 1. Anatman is the idea that the concepts of atman and jivas are vital to Buddhism.
     - A) True
     - B) False
+1. In Buddhism, you can be reborn as a god, a demigod, a human, a hungry ghost, an animal, or in one of the hell realms.
+    - A) True
+    - B) False
+1. The transfer of merit is an important part of Thervada funerary rites.
+    - A) True
+    - B) False
+1. The transfer of merit allows dead loved ones to gain more good karma before being reborn.
+    - A) True
+    - B) False
+1. A Buddhist relic is a piece of the Buddha's body.
+    - A) True
+    - B) False
+1. Stupas house pieces of the Buddha's body and pieces of the Arhat's bodies as well.
+    - A) True
+    - B) False
+1. A Buddha only comes once every thousand years.
+    - A) True
+    - B) False
+1. A kalpa is an *extremely* long period of time.
+    - A) True
+    - B) False
+1. A sangha is a spirit that follows the Buddha and protects him.
+    - A) True
+    - B) False
+1. The Jataka are texts that reveal how one might become a Buddha.
+    - A) True
+    - B) False
 
 
 
@@ -187,6 +214,63 @@
     - C) Punya helps burn away karma upon death
     - D) Karma keeps you from rising to escape samsara
     - E) All of the above are **TRUE** about Jainism (there was no false statement)
+1. The significance of the Bodhisattva's birth was which of the following?
+    - A) He walked out of his mother's side, and so was able to remember his past life
+    - B) It was the first time he had ever been born
+    - C) He was born as a hare
+    - D) He immediately sacrificed himself to allow his starving mother to eat
+    - E) All of the above
+1. The Great Departure is/was \_\_\_\_\_\_\_\_\_\_.
+    - A) A period of mourning after a loved one has passed on
+    - B) Prince Siddhartha's decision to leave the comforts of his palace and pursue a life of asceticism
+    - C) The Bodhisattva's decision to leave the renunciants\_ and follow the middle way
+    - D) When the Bodhisattva reached parinirvana and became the Buddha
+1. The Buddha saw \_\_\_\_\_\_\_\_\_\_.
+    - A) A dying old man, a sick girl, a monk, and a starving wolf
+    - B) A young man, a sick man, a dead man, and a starving man
+    - C) An old man, a sick man, a dead man, and a renunciant
+    - D) A Hindu Brahmin and a Jain Thirthankara
+    - E) None of the above
+1. Nirvana is \_\_\_\_\_\_\_\_\_\_.
+    - A) Similar to moksha in Hinduism and Jainism
+    - B) The state of no longer generating karma, but still being alive
+    - C) Prior to parinirvana
+    - D) Perfect enlightenment
+    - E) All of the above
+    - F) Only A and D
+1. Anatman is a rejection of which of the following?
+    - A) The concepts of Atman and Jivas
+    - B) The idea of clinging onto one's soul in life and in death
+    - C) A and B
+    - D) Only the concept of Atman
+    - E) None of the above
+1. Dependent origination comes in a chain of how many stages?
+    - A) 10
+    - B) 8
+    - C) 7
+    - D) 12
+1. How many realms of rebirth are there?
+    - A) 2
+    - B) 3
+    - C) 12
+    - D) 6
+1. Which of the following is **NOT** one of the four noble truths of Buddhism?
+    - A) Existence is suffering
+    - B) Suffering is caused by attachment and craving
+    - C) Craving can cease
+    - D) The way to cease craving is through the eightfold path
+    - E) These are all part of the four noble truths of Buddhism
+1. In Buddhism, the three animals at the center of the wheel of life are which of the following?
+    - A) A pig, a snake, and a bird
+    - B) A wolf, a tiger, and a hare
+    - C) A monkey, a tiger, and an ox
+    - D) A lion, a witch, and a wardrobe
+1. Which of the following stories about the Buddha are true?
+    - A) He gave his life to feed a tiger so she wouldn't have to eat her cubs
+    - B) He gave his head to a corrupt Brahmin
+    - C) He (in rabbit form) shook off his fleas and leapt onto the fire so that others could eat
+    - D) All of the above are true
+    - E) None of the above are true
 
 
 
