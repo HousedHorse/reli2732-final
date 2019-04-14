@@ -419,9 +419,13 @@
 
 - bodhisattva gave his life to feed the tiger so it could have good karma
 - gave his head to the corrupt brahmin
--
+- rabbit shook off fleas and threw himself on the first to be eaten
+- self sacrifice as a form of generosity
 
 ## Symbolism and Ritual Forms of Theravada Funeral
+
+- transfer of merit to the departed
+- reminder of life's impermanence
 
 ## Key Words in Texts
 
