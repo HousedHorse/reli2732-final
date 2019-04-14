@@ -43,6 +43,9 @@
 
 ---
 
+1. A Thirthankara can be translated as a maker of fords. It is a religious teacher in Jainism.
+    - A) True
+    - B) False
 1. Parinirvana comes before nirvana.
     - A) True
     - B) False
@@ -108,6 +111,15 @@
     - C) The chief Brahmin of a village
     - D) A and B
     - E) None of the above
+
+---
+
+1. The rite of renunciation in Hinduism involves which of the following?
+    - A) A fake cremation
+    - B) Discarding of one's novice robes
+    - C) Cleansing oneself in the river
+    - D) The body being discarded upon death, rather than burned
+    - E) All of the above
 
 
 
