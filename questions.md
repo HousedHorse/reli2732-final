@@ -79,6 +79,12 @@
     - C) The act of spending ones entire life in pursuit of divine truth
     - D) Very important in Jainism, but of little to no importance in Hinduism
     - F) Something only crazy people do
+1. The Atman is \_\_\_\_\_\_\_\_\_\_.
+    - A) Brahman within an individual
+    - B) To the human body as salt is to salt water
+    - C) The chief Brahmin of a village
+    - D) A and B
+    - E) None of the above
 
 
 
