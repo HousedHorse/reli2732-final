@@ -309,13 +309,36 @@
 
 ## Dependent Origination
 
+- any concept depends on others to exist
+- a long chain of dependent origination
+    - 12 stages in this chain
+    - we don't need to know about all 12
+- driven by karma -> samsara
+- six realms of rebirth based on karma
+
 ## The Six Realms of Rebirth
 
-## The Four Noble Truths
+- realms you can be born in based on your karma
+- good
+    - god
+    - demigod
+    - human
+- bad
+    - hungry ghost
+    - animal
+    - hell realms
+- link between realms of rebirth and human emotion/psychology
 
 ## Sangha
 
 - community of monks and nuns in Buddhism
+
+## The Four Noble Truths
+
+- life is not satisfactory (suffering)
+- suffering is caused by craving (attachment)
+- craving can cease
+- cessation of craving through the eightfold path
 
 ## Jataka
 
