@@ -486,15 +486,51 @@
 
 ## The Buddha of Infinite Life (Amitabha / Emituo / Amida)
 
--
+- The Buddha of Infinite Life thought to have created the Pure Land
+- Cosmic Buddha and reside in their own realm
+- Made 48 vows before he died
 
 ## The Pure Land
 
+- Pure Land != Heaven
+- The Pure Land is not part of the cycle of Samsara
+  - Once you are born in the Pure Land you are out of the cycle
+  - Never again experience an unpleasant rebirth
+  - Perfect karma, can achieve enlightenment
+  - No sex (only male)
+
+- If you only chant the name of Amitabha Buddha
+  - Grants you rebirth in the Pure Land
+
 ## The Japanese Pure Land traditions
+
+- "The Decline of Dharma" 3 ages:
+  1. True Dharma
+    - The time of the buddhas life
+    - The era in which it is possible to follow the teachings of the buddha correctly
+  2. Semblance Dharma
+    - The buddhas teaching is becoming forgotten
+    - Teachings not quite right
+    - People still trying to be buddhist
+  3. End of Dharma
+    - Buddhist teaching died out
+    - Impossible to be buddhist
+  - Sometime in the unknowable future new buddha is born
+  - Each stage is eons in life
+
+- Jodo Shu (Pure Land School) and Jodo Shinshu (New Pure Land School)
+  - Focus on exclusive practice of chanting the buddha
 
 ## “Funeral Buddhism” in Japan
 
- the rituals associated with the Scripture on the Ten Kings, the connection between the “decline of the dharma” and Pure Land Practice in Japan, the role of miracle stories in promulgating Buddhist doctrines and practices in East Asia
+- Buddhism is associated with death
+- During the edo period (1600 -1868)
+- Danka system: Every family needed to be linked to a buddhist temple
+  - To prosecut christianity
+- Social system where buddhist temples and monastaries start to rely on their
+  Danka and their performance as funeral rights as their primary source of revenue
+- Continued until the 20th century
+- Rebelled by the public
 
 
 
