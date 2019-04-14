@@ -35,7 +35,51 @@
 1. Ahisma is a vow of non-violence.
     - A) True
     - B) False
+1. Jain is the founder of Jainism.
+    - A) True
+    - B) False
+
+
+
+
+
 
 ## Multiple Choice
+
+1. Karma is \_\_\_\_\_\_\_\_\_\_.
+    - A) An important concept in both the cosmology and soteriology of Jainism and Hinduism
+    - B) The Sanskrit word for Dharma (the Hindi word for the same concept)
+    - C) Not important in Jainism
+    - D) Considered good in Hinduism and bad in Jainism
+    - E) None of the above
+1. Dharma is \_\_\_\_\_\_\_\_\_\_.
+    - A) The Hindi word for karma
+    - B) Related to the caste system introduced by the Aryan people
+    - C) The function of the world according to natural law
+    - D) Both B and C
+    - E) None of the above
+1. Which of the following statements about Hinduism is **FALSE**?
+    - A) Yama is the Vedic god of dharma
+    - B) Varuna is the Vedic god of death
+    - C) Brahmin is the one true God in post-upanishadic Hinduism and all other gods are aspects of him
+    - D) Brahman were tasked with performing ritual sacrifice to the gods and had to memorize the Vedic texts
+    - E) Both A and B are false
+    - F) All of the above is false
+1. Which of the following accurately describes the difference between Pitra and Preta?
+    - A) Pitra is a made-up word that Will invented to trick you.
+    - B) Pitra is a type of soul, while Petra is a special kind of spirit known as a "Hungry Ghost"
+    - C) Preta is an ancestral soul, while Pitra is a regular soul
+    - D) The two terms are interchangeable
+    - E) Preta are female spirits, while Prita are male spirits
+1. Sannyasa is \_\_\_\_\_\_\_\_\_\_.
+    - A) Special salvation attained after breaking the cycle of Samsara
+    - B) The endless cycle or birth, death, and rebirth
+    - C) The act of spending ones entire life in pursuit of divine truth
+    - D) Very important in Jainism, but of little to no importance in Hinduism
+    - F) Something only crazy people do
+
+
+
+
 
 ## Passage Identification
