@@ -70,6 +70,30 @@
 1. In Buddhism, you can be reborn as a god, a demigod, a human, a hungry ghost, an animal, or in one of the hell realms.
     - A) True
     - B) False
+1. The transfer of merit is an important part of Thervada funerary rites.
+    - A) True
+    - B) False
+1. The transfer of merit allows dead loved ones to gain more good karma before being reborn.
+    - A) True
+    - B) False
+1. A Buddhist relic is a piece of the Buddha's body.
+    - A) True
+    - B) False
+1. Stupas house pieces of the Buddha's body and pieces of the Arhat's bodies as well.
+    - A) True
+    - B) False
+1. A Buddha only comes once every thousand years.
+    - A) True
+    - B) False
+1. A kalpa is an *extremely* long period of time.
+    - A) True
+    - B) False
+1. A sangha is a spirit that follows the Buddha and protects him.
+    - A) True
+    - B) False
+1. The Jataka are texts that reveal how one might become a Buddha.
+    - A) True
+    - B) False
 
 
 
@@ -218,7 +242,8 @@
     - A) The concepts of Atman and Jivas
     - B) The idea of clinging onto one's soul in life and in death
     - C) A and B
-    - D) None of the above
+    - D) Only the concept of Atman
+    - E) None of the above
 1. Dependent origination comes in a chain of how many stages?
     - A) 10
     - B) 8
@@ -229,6 +254,23 @@
     - B) 3
     - C) 12
     - D) 6
+1. Which of the following is **NOT** one of the four noble truths of Buddhism?
+    - A) Existence is suffering
+    - B) Suffering is caused by attachment and craving
+    - C) Craving can cease
+    - D) The way to cease craving is through the eightfold path
+    - E) These are all part of the four noble truths of Buddhism
+1. In Buddhism, the three animals at the center of the wheel of life are which of the following?
+    - A) A pig, a snake, and a bird
+    - B) A wolf, a tiger, and a hare
+    - C) A monkey, a tiger, and an ox
+    - D) A lion, a witch, and a wardrobe
+1. Which of the following stories about the Buddha are true?
+    - A) He gave his life to feed a tiger so she wouldn't have to eat her cubs
+    - B) He gave his head to a corrupt Brahmin
+    - C) He (in rabbit form) shook off his fleas and leapt onto the fire so that others could eat
+    - D) All of the above are true
+    - E) None of the above are true
 
 
 
