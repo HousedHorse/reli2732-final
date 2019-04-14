@@ -277,3 +277,170 @@
 
 
 ## Passage Identification
+
+1. Identify the tradition associated with the following passage:
+
+> I pray to Agni, the household priest who is the god of the sacrifice, the one who chants and invokes and brings most treasure.
+> Agni earned the prayers of the ancient sages, and of those of the present, too; he will bring the gods here.
+> Through Agni one may win wealth, and growth from day to day, glorious and most abounding in heroic sons.
+> Agni, the sacrificial ritual that you encompass on all sides – only that one goes to the gods.
+> Agni, the priest with the sharp sight of a poet, the true and most brilliant, the god will come with the gods.
+> Whatever good you wish to do for the one who worships you, Agni, through you, O Angiras, that comes true.
+
+- A) Jainism
+- B) Hindusim
+- C) Early Buddhism
+- D) Mahayana Buddhism
+
+2. Identify the tradition associated with the following passage:
+
+3. Identify the tradition associated with the following passage:
+
+4. Identify the tradition associated with the following passage:
+
+5. Identify the tradition associated with the following passage:
+
+6. Identify the tradition associated with the following passage:
+
+7. Identify the tradition associated with the following passage:
+
+8. Identify the tradition associated with the following passage:
+
+9. Identify the tradition associated with the following passage:
+
+10. Identify the tradition associated with the following passage:
+
+11. Identify the tradition associated with the following passage:
+
+12. Identify the tradition associated with the following passage:
+
+13. Identify the tradition associated with the following passage:
+
+14. Identify the tradition associated with the following passage:
+
+15. Identify the tradition associated with the following passage:
+
+16. Identify the tradition associated with the following passage:
+
+17. Identify the tradition associated with the following passage:
+
+> To you, Agni, who shine upon darkness, we come day after day, bringing our thoughts and homage
+> to you, the king over sacrifices, the shining guardian of the Order, growing in your own house.
+> Be easy for us to reach, like a father to his son. Abide with us, Agni, for our happiness.
+
+- A) Chinese Religion
+- B) Vedic Hinduism
+- C) Upanshadic Hinduism
+- D) Jainism
+
+18. Identify the tradition associated with the following passage:
+
+19. Identify the tradition associated with the following passage:
+
+20. Identify the tradition associated with the following passage:
+
+21. Identify the tradition associated with the following passage:
+
+22. Identify the tradition associated with the following passage:
+
+23. Identify the tradition associated with the following passage:
+
+24. Identify the tradition associated with the following passage:
+
+25. Identify the tradition associated with the following passage:
+
+26. Identify the tradition associated with the following passage:
+
+27. Identify the tradition associated with the following passage:
+
+28. Identify the tradition associated with the following passage:
+
+29. Identify the tradition associated with the following passage:
+
+30. Identify the tradition associated with the following passage:
+
+31. Identify the tradition associated with the following passage:
+
+32. Identify the tradition associated with the following passage:
+
+33. Identify the tradition associated with the following passage:
+
+34. Identify the tradition associated with the following passage:
+
+35. Identify the tradition associated with the following passage:
+
+36. Identify the tradition associated with the following passage:
+
+37. Identify the tradition associated with the following passage:
+
+38. Identify the tradition associated with the following passage:
+
+39. Identify the tradition associated with the following passage:
+
+40. Identify the tradition associated with the following passage:
+
+41. Identify the tradition associated with the following passage:
+
+42. Identify the tradition associated with the following passage:
+
+43. Identify the tradition associated with the following passage:
+
+44. Identify the tradition associated with the following passage:
+
+45. Identify the tradition associated with the following passage:
+
+46. Identify the tradition associated with the following passage:
+
+47. Identify the tradition associated with the following passage:
+
+48. Identify the tradition associated with the following passage:
+
+49. Identify the tradition associated with the following passage:
+
+50. Identify the tradition associated with the following passage:
+
+51. Identify the tradition associated with the following passage:
+
+52. Identify the tradition associated with the following passage:
+
+53. Identify the tradition associated with the following passage:
+
+54. Identify the tradition associated with the following passage:
+
+55. Identify the tradition associated with the following passage:
+
+56. Identify the tradition associated with the following passage:
+
+57. Identify the tradition associated with the following passage:
+
+58. Identify the tradition associated with the following passage:
+
+59. Identify the tradition associated with the following passage:
+
+60. Identify the tradition associated with the following passage:
+
+61. Identify the tradition associated with the following passage:
+
+62. Identify the tradition associated with the following passage:
+
+63. Identify the tradition associated with the following passage:
+
+64. Identify the tradition associated with the following passage:
+
+65. Identify the tradition associated with the following passage:
+
+66. Identify the tradition associated with the following passage:
+
+67. Identify the tradition associated with the following passage:
+
+68. Identify the tradition associated with the following passage:
+
+69. Identify the tradition associated with the following passage:
+
+70. Identify the tradition associated with the following passage:
+
+71. Identify the tradition associated with the following passage:
+
+72. Identify the tradition associated with the following passage:
+
+73. Identify the tradition associated with the following passage:
