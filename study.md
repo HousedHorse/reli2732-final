@@ -346,6 +346,9 @@
 ## Transfer of Merit
 
 - generate merit
+- mental action to wish merit transferred to the deceased
+- merit is not lost from the giver, but still received by the receiver
+- analogous to feeding ancestors in Hinduism
 
 ## Relic
 
@@ -367,6 +370,7 @@
 - mediate to engage with impermanence of the human body
 - body is made up of elements
     - dependent origination
+- transfer or merit
 
 ## Sangha
 
@@ -401,6 +405,7 @@
 - preda (hungry ghosts)
     - Hinduism -> ancestors not being fed properly
     - Buddhism -> reborn as a hungry ghost based on karma
+- gods
 
 ## Idealized Path of Arhat vs Common Path of Good Walks
 
@@ -411,6 +416,10 @@
 - path of good walks
 
 ## Perfect Generosity in Hare Jataka
+
+- bodhisattva gave his life to feed the tiger so it could have good karma
+- gave his head to the corrupt brahmin
+-
 
 ## Symbolism and Ritual Forms of Theravada Funeral
 
@@ -492,21 +501,88 @@
 
 
 
-# Vajrayana Buddhism
+# Vajrayana Buddhism (or Tantric Buddhism)
 
 ## Mandala
 
+- Geometrical arrangements in which use see the depiction of various buddhas
+- Used as a visualization where the meditator will sit and concentrate on the
+  celestial image and imagine themselves merging being one with one of those
+  deities
+- Every living being has innate buddhahood and only our failures that prevent us
+  from realizing this
+- The active visualization helps us realize we're a certain buddha bodhisattva
+  - Mandala helps with this ritual
+
 ## Vajra
+
+- Ritual implement and artistic motif
+- Practitioner's will hold a vajra as a ritual object when performing a ritual
+- Both a trope and a ritual object
 
 ## Delok
 
+- Delok means return from death
+- Individuals (usually women) who have claimed they have experienced going to
+  hell or the realm of ghosts and came back to talk about it
+    - Come back to the living to encourage to practise religion
+    - Only way to be saved
+- Delok tradition shows proof that tibetan buddhism is true
+  - That after death there is judgment and a lord of death
+  - Delok tradition is a narrative tradition that describes this in practise
+
 ## Tulku
+
+- Leadership under lamas -> esp. tulkus
+- Tulku: incarnated lama
+  - That first level body of Buddha
+  - These people are understood to be incarnated to be buddhas or bodhisattva
+  - Ex: Tenzin Gyatso, the 14th Dalai Lama
 
 ## Bardo Thodol
 
+- A book
+- Title means "The Great Liberation"
+- Bardo: intermediate state
+- Thodol: Liberation
+- We pass through many intermediate states (Bardo)
+- In between death and one's next birth
+  - One goes through these intermediate states
+  - The idea is that if you remain your composure at the moment of death
+    they will achieve complete buddhahood
+    - Since we are all buddhas already
+    - Achieve enlightenment
+
 ## Bardo
 
-Discuss: the form of liberation posited in Tibetan Buddhism, the symbolism of Tibetan sky burial
+1. The Bardo of Life
+  - Life is a bardo because it is a liminal state
+  - In between our previous and next birth
+2. The Bardo of Dream
+  - Dreaming is a bardo because you are not in state of perfect non thought and
+    you are not in waking consiousness
+3. The Bardo of Meditation
+4. The Bardo of the Dying Process (end in the moment of death)
+  - All aspects of your body and mind will disintegrate and fall away
+5. The Bardo of After Death (Reality-as-it-is)
+  - A moment when you experience reality as it is
+  - Experience your innate buddhahood
+  - Remain composed then you're out of the cycle of samsara
+  - If you are frightned or for some reason do not remain composed you experience
+    the sixth bardo
+6. The Bardo of the Rebirth Process (ends in the moment of conception)
+  - Lasts 49 days
+  - Then you reneter a new mortal body
+
+## Tibetan Sky Burial
+
+- 'Jhato' giving alms to the birds
+- The body is giving to the benefit to living beings
+- Himalayan Vulture: sacred birds in Tibetan culture
+- Tibetans usually cremate their dead but in some cases the body is offered as
+  food for the birds
+  - Possible that in Tibet ground is too hard to dig
+  - Few trees to provide wood for cremation
 
 
 
