@@ -429,7 +429,6 @@ Discuss: the form of liberation posited in Tibetan Buddhism, the symbolism of Ti
 
 
 
-
 # Chinese Religion
 
 ## Oracle Bones
@@ -535,6 +534,7 @@ Discuss: the form of liberation posited in Tibetan Buddhism, the symbolism of Ti
     - The life in death is better
     - Would not come back to life
 
+
 ## Hun and Po Souls
 
 - Hun soul
@@ -573,6 +573,7 @@ Discuss: the form of liberation posited in Tibetan Buddhism, the symbolism of Ti
     - That would be recorded
     - They would be offered a government position because they kepyt with Confucian ethics
 
+
 ## The Immortals (xian)
 
 - Became the spiritual ideal
@@ -606,7 +607,7 @@ Discuss: the form of liberation posited in Tibetan Buddhism, the symbolism of Ti
 1. Denial
 2. Anger
 3. Bargaining
-    - Bargain with a higher power to influence the outcome
+    - Bargain with a higher power to influence the outco
 4. Depression
 5. Acceptance
 
