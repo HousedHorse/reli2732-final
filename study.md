@@ -254,9 +254,82 @@
 
 # Early Buddhism
 
-https://vod.cuol.ca/vod/vod-lectures?course=RELI+2732&term=201910&crn=14617
+## Buddha (Prince Siddhartha)
 
-1:06:44
+- "enlightened one"
+- the idealized human, following idealized religious quest
+    - not just an ordinary human being
+- the ideal path that humans should follow
+- he walked out the side of his mother
+    - not going through birth canal lets him keep his previous lives' memories
+
+- father doesn't want him to become a renunciant
+    - sets up a life of ease in the palace
+    - but one day Siddhartha goes out to see the world
+
+### The Four Sights
+
+- sees an old man
+- sees a sick man
+- sees a dead man
+- sees a renunciant
+
+### The Great Departure
+
+- the four sights cause the Buddha to realize he should leave behind his life in the palace
+- goes out and engages ascetic practice
+- but the constant discomfort on his body does not please him
+    - proposes the "middle way"
+    - home life and asceticism are both too much
+
+## Bodhisattva
+
+- a being whose essence is enlightened
+- not fully enlightened yet
+- also describes historical Buddha before he achieved enlightenment
+    - and his previous lives
+
+## Nirvana
+
+- perfect enlightenment
+- similar to moksha in Hinduism and Jainism
+
+## Parinirvana
+
+## Anatman
+
+## Dependent Origination
+
+## The Six Realms of Rebirth
+
+## The Four Noble Truths
+
+## Sangha
+
+## Jataka
+
+## Transfer of Merit
+
+## Relic
+
+## Stupa
+
+## Course Meditation
+
+## Idealized Path of Arhat vs Common Path of Good Walks
+
+## Similarities and Differences of Karma, Samsara, and Soteriology Between Hinduism, Jainism, and Buddhism
+
+- buddhism
+    - constant cycle of life death and rebirth
+    - good and bad
+    - karma
+    - only hope is to attain liberation
+
+## Key Words in Texts
+
+- the blessed one
+
 
 
 
@@ -290,7 +363,7 @@ https://vod.cuol.ca/vod/vod-lectures?course=RELI+2732&term=201910&crn=14617
 - Responsible of the living to take care of the wandering dead
 - Offerings of this wandering dead is placed on the back door of your house
 
-## "Greater Filial Piety" in the Ghosy Festival Ritual
+## "Greater Filial Piety" in the Ghost Festival Ritual
 
 - Not only are you taking care of your own family ancestor
 - Many other wandering spirits are being offered offerings
@@ -298,208 +371,110 @@ https://vod.cuol.ca/vod/vod-lectures?course=RELI+2732&term=201910&crn=14617
 ## The Ullambana / Yulanben Sutra
 
 - The story shows:
-  - The critique of offering food to ancestors
-  - The dead can't eat
-  - The story changes the ritual of offering food to the dead
-  - If you want to help the dead you must donate to monks/nuns
-  - In turn the donations turn to merit so the dead achieve a better rebirth
+    - The critique of offering food to ancestors
+    - The dead can't eat
+    - The story changes the ritual of offering food to the dead
+    - If you want to help the dead you must donate to monks/nuns
+    - In turn the donations turn to merit so the dead achieve a better rebirth
 
 ## The Scripture on the Ten Kings
 
-- Redefines the buddhists world view in light of chinese patterns and 
-  chinese ways of imagining the world
-- This text introduces an intermediatery stage in which the dead person is being
-  judged in variety of underworld courts
+- Redefines the Buddhists world view in light of Chinese patterns and
+    Chinese ways of imagining the world
+- This text introduces an intermediary stage in which the dead person is being
+    judged in variety of underworld courts
 - Creates a notion of purgatory
-- A time in which the dead person's karma can be prged before their next birth
+- A time in which the dead person's karma can be purged before their next birth
 
 - **Concepts and Practises**
-- The mourning period is divided into segments (needs to sponsor a buddhist 
-  ritual every week)
-  - 1-7 -> weekly ritual
-  - 8 -> 100 days
-  - 9 -> 1 year
-  - 10 -> 3 years
-    - Must sponser 10 festivals  
+- The mourning period is divided into segments (needs to sponsor a Buddhist
+    ritual every week)
+    - 1-7 -> weekly ritual
+    - 8 -> 100 days
+    - 9 -> 1 year
+    - 10 -> 3 years
+    - Must sponsor 10 festivals
 - Importance of transfer of merit
 ## The Buddha of Infinite Life (Amitabha / Emituo / Amida)
 
-- The Buddha of Infinite Life thought to have created the Pure Land
-- Cosmic Buddha and reside in their own realm
-- Made 48 vows before he died
+-
 
 ## The Pure Land
-
-- Pure Land ≠ Heaven
-- The Pure Land is not part of the cycle of Samsara
-  - Once you are born in the Pure Land you are out of the cycle
-  - Never again experience an unpleasant rebirth
-  - Perfect karma, can achieve enlightenment 
-  - No sex (only male)
-
-- If you only chant the name of Amitabha Buddha 
-  - Grants you rebirth in the Pure Land
-
 ## The Japanese Pure Land traditions
-
-- "The Decline of Dharma" 3 ages:
-  1. True Dharma
-    - The time of the buddhas life 
-    - The era in which it is possible to follow the teachings of the buddha correctly
-  2. Semblance Dharma
-    - The buddhas teaching is becoming forgotten
-    - Teachings not quite right
-    - People still trying to be buddhist
-  3. End of Dharma
-    - Buddhist teaching died out
-    - Immpossible to be buddhist
-  - Sometime in the unknowable future new buddha is born
-  - Each stage is eons in life
-
-- Jodo Shu (Pure Land School) and Jodo Shinshu (New Pure Land School)
-  - Focus on exclusive practise of chanting the buddha
-
 ## “funeral Buddhism” in Japan
+ the rituals associated with the Scripture on the Ten Kings, the connection between the “decline of the dharma” and Pure Land Practice in Japan, the role of miracle stories in promulgating Buddhist doctrines and practices in East Asia
 
-- Buddhism is associated with death
-- During the edo period (1600 -1868)
-- Danka system: Every family needed to be linked to a buddhist temple
-  - To prosecut christianity
-- Social system where buddhist temples and monastaries start to rely on their
-  Danka and their performance as funeral rights as their primary source of revenue
-- Continued until the 20th century
-- Rebelled by the public
 
-# Vajrayana Buddhism (or Tantric Buddhism)
 
-## Mandala 
 
-- Geometrical arrangements in which use see the depiction of various buddhas
-- Used as a visualization where the meditator will sit and concentrate on the 
-  celestial image and imagine themselves merging being one with one of those
-  deities
-- Every living being has innate buddhahood and only our failures that prevent us
-  from realizing this
-- The active visualization helps us realize we're a certain buddha bodhisattva
-  - Mandala helps with this ritual
+
+
+# Vajrayana Buddhism
+
+## Mandala
 
 ## Vajra
 
-- Ritual implement and artistic motif
-- Practioner's will hold a vajra as a ritual object when performing a ritual
-- Both a trope and a ritual object
-
 ## Delok
-
-- Delok means return from death
-- Individuals (usually women) who have claimed they have experienced going to 
-  hell or the realm of ghosts and came back to talk about it
-    - Come back to the living to encourage to practise religion
-    - Only way to be saved
-- Delok tradition shows proof that tibetan buddhism is true
-  - That after death there is judgment and a lord of death
-  - Delok tradition is a narrative tradition that describes this in practise  
 
 ## Tulku
 
-- Leadership under lamas -> esp. tulkus
-- Tulku: incarnated lama
-  - That first level body of Buddha
-  - These people are understood to be incarnated to be buddhas or bodhisattva
-  - Ex: Tenzin Gyatso, the 14th Dalai Lama
-
 ## Bardo Thodol
-
-- A book
-- Title means "The Great Liberation"
-- Bardo: intermediate state
-- Thodol: Liberation
-- We pass through many intermediate states (Bardo)
-- In between death and one's next birth
-  - One goes through these intermediate states
-  - The idea is that if you remain your composure at the moment of death 
-    they will achieve complete buddhahood
-    - Since we are all buddhas already
-    - Achieve enlightenment    
 
 ## Bardo
 
-1. The Bardo of Life
-  - Life is a bardo because it is a liminal state 
-  - In between our previous and next birth
-2. The Bardo of Dream
-  - Dreaming is a bardo because you are not in state of perfect non thought and
-    you are not in waking consiousness 
-3. The Bardo of Meditation
-4. The Bardo of the Dying Process (end in the moment of death)
-  - All aspects of your body and mind will disintegrate and fall away
-  - 
-5. The Bardo of After Death (Reality-as-it-is)
-  - A moment when you experience reality as it is
-  - Experience your innate buddhahood
-  - Remain composed then you're out of the cycle of samsara
-  - If you are frightned or for some reason do not remain composed you experience
-    the sixth bardo
-6. The Bardo of the Rebirth Process (ends in the moment of conception)
-  - Lasts 49 days
-  - Then you reneter a new mortal body
+Discuss: the form of liberation posited in Tibetan Buddhism, the symbolism of Tibetan sky burial
 
-## Tibetan Sky Burial
 
-- 'Jhato' giving alms to the birds
-- The body is giving to the benefit to living beings
-- Himalayan Vulture: sacred birds in Tibetan culture
-- Tibetans usually cremate their dead but in some cases the body is offered as
-  food for the birds
-  - Possible that in Tibet ground is too hard to dig 
-  - Few trees to provide wood for cremation
+
+
 
 # Chinese Religion
 
-## Oracle Bones 
+## Oracle Bones
 
-- Inscribes usually on ox bones and other animals
+- On ox bones and other animals
 - Common on turtle shells
-- a.k.a Dragon Bones
-- In chinese world writing has a lot of spiritual power
-- Thought the dragons wrote on the bones 
+- AKA Dragon Bones
+- In Chinese world writing has a lot of spiritual power
+- Thought the dragons wrote on the bones
 - Used to grind up these bones for medicinal purposes
 - The oracle bones were thought to show the future
-  - Would prescribe question on it
-  - Then a diviner would use a heated rod on the bones
-  - How the bone would crack on the question would divine the future
-  - Someone would come and read the cracks
+    - Would prescribe question on it
+    - Then a diviner would use a heated rod on the bones
+    - How the bone would crack on the question would divine the future
+    - Someone would come and read the cracks
 - Shang Di (An overseer God who looks after war and harvest)
-  - "Lord on High"
+    - "Lord on High"
 
 ## Spiritual Potency (ling)
 
-- Centruality of ritual + sacrifice
+- Centrality of ritual + sacrifice
 - Ritual based on ling: "Spiritual Potency"
-- The chinese character "ling" is made up of 3 pieces:
-  1. Rain
-  2. Mouth
-  3. Spirit Medium
-  - Therefore rain is being brought down by the chanting of spirit mediums
-- Will the sacrifice they make be 'ling'  
+- The Chinese character "ling" is made up of 3 pieces:
+    1. Rain
+    2. Mouth
+    3. Spirit Medium
+    - Therefore rain is being brought down by the chanting of spirit mediums
+- Will the sacrifice they make be 'ling'
 - Ling is linked to the creation of new gods
 
-## The Extrahuman Realm
+## The Extra-human Realm
 
 - Spiritualistic cosmology
 - The gods were not divine beings
 - They engaged with humans directly
-- The beings in this human realm aren't necesarily superhuman
-  - They can be defeated by human
+- The beings in this human realm aren't necessarily superhuman
+    - They can be defeated by human
 - They are natural part of our world
-  - That's why named "Extrahuman"
+    - That's why named "Extra-human"
 
-- Gods, ghosts, ancestos and other spirits
-  - Differ only on how humans deal with them and their relationship
-  - Depends on your view
-  - One man's ghost is one man's ancestor
-  - Ghost is unknown spirit, ancestor is known spirit
-  - God's protect and are worshipped, ghosts are feared and bring harm 
+- Gods, ghosts, ancestors and other spirits
+    - Differ only on how humans deal with them and their relationship
+    - Depends on your view
+    - One man's ghost is one man's ancestor
+    - Ghost is unknown spirit, ancestor is known spirit
+    - God's protect and are worshipped, ghosts are feared and bring harm
 
 ## Ming (destiny / lifespan)
 
@@ -509,17 +484,17 @@ https://vod.cuol.ca/vod/vod-lectures?course=RELI+2732&term=201910&crn=14617
 ## Spirit Mediums (wu)
 
 - The spirit mediums (wu) perform different rituals
-  1. The ritual of communication
-    - They speak for the dead (become possesed to speak to the living)
-  2. Ritual of exchange
-    - If a spirit is thought to bring harm a spirit medium can be called upon
-    to make offerings to that extrahuman being
-  3. Ritual of antaagonism
-    - Refers to exocism
-    - Can drive spirits away
+    1. The ritual of communication
+        - They speak for the dead (become possessed to speak to the living)
+    2. Ritual of exchange
+        - If a spirit is thought to bring harm a spirit medium can be called upon
+        to make offerings to that extrahuman being
+    3. Ritual of antagonism
+        - Refers to exorcism
+        - Can drive spirits away
 
-- Played important role in funerals    
-  - Can return the soul back to the body
+- Played important role in funerals
+    - Can return the soul back to the body
 
 ## Qi
 
@@ -527,93 +502,77 @@ https://vod.cuol.ca/vod/vod-lectures?course=RELI+2732&term=201910&crn=14617
 - Qi is an energetic energy
 - Qi is also in every concrete thing that exists
 - Correlative cosmology
-  - You can understand the transformation by understanding the correlation of
-  those energies
+    - You can understand the transformation by understanding the correlation of
+    those energies
 
 ## Yin and Yang
 
-- The characters refer to the light and dark side of a hill 
+- The characters refer to the light and dark side of a hill
 - Not that one is good or one is bad
 - They generate each other
-  - Ex: The setting and rising of the sun
-- Referring to the symbolof ying and yang  
-  - The max of yin is when yang is born
-  - The max of yang is when yin is born
+    - Ex: The setting and rising of the sun
+- Referring to the symbol of yin and yang
+    - The max of yin is when yang is born
+    - The max of yang is when yin is born
 
 ## The Way (Dao)
 
 - The path of human practise
 - Cosmic terms:
-  - Everything in the universe acting in accordance with its characteristics
-  those energies
+    - Everything in the universe acting in accordance with its characteristics
+    - Ex: A dog acting like a dog, a tree growing from a seed to a full tree
+    - Everything has a thing it is and a thing it will become
 
-## Yin and Yang
-
-- The characters refer to the light and dark side of a hill 
-- Not that one is good or one is bad
-- They generate each other
-  - Ex: The setting and rising of the sun
-- Referring to the symbolof ying and yang  
-  - The max of yin is when yang is born
-  - The max of yang is when yin is born
-
-## The Way (Dao)
-
-- The path of human practise
-- Cosmic terms:
-  - Everything in the universe acting in accordance with its characteristics
-  - Ex: A dog acting like a dog, a tree growing from a seed to a full tree
-  - Everything has a thing it is and a thing it will become
-
-## Two of the visions of life and death presented in the Zhuangzi;
+## Two of the visions of life and death presented in the Zhuangzi
 
 - Acknowledging while looking at a skull that he doesn't know what life it had
-  - Now it's just a skull with nothing to tell
-  - Not assuming life is better than death
-  - That extending your life is better
+    - Now it's just a skull with nothing to tell
+    - Not assuming life is better than death
+    - That extending your life is better
 - Assumes living is better than dead
-  - Skulls comes to him in a dream disagreeing
-  - The life in death is better
-  - Would not come back to life
+    - Skulls comes to him in a dream disagreeing
+    - The life in death is better
+    - Would not come back to life
+
 
 ## Hun and Po Souls
 
 - Hun soul
-  - Cloud soul or Spirit soul 
-  - Can leave body
+    - Cloud soul or Spirit soul
+    - Can leave body
 - Po soul
-  - White soul or Material soul
-  - Tied to body
+    - White soul or Material soul
+    - Tied to body
 - Associated with Yin and Yang
-  - Yang related to Hun
-  - Yin related to Po
+    - Yang related to Hun
+    - Yin related to Po
 - When the Wu does the ritual to bring back the spirit
-  - Hun soul
+    - Hun soul
 
 ## Filial Piety (xiao)
 
-- ren: Humankindness
-  - humankind-ness
-  - Recongizing their full humanity
+- ren: Humankind-ness
+    - recognizing their full humanity
 - Xiao: Filial Piety
-  - The character means "old" and "young"
-  - The old is being held up by the young
-  - Young supporting the old
+    - The character means "old" and "young"
+    - The old is being held up by the young
+    - Young supporting the old
 
-## The Confucian Understanding of  Ritual (Li)
+## The Confucian Understanding of    Ritual (Li)
 
 - Li
-  - Doing rituals gives us the practical experience to engage appropriately with others 
-  - The rituals of a family ex: right place to sit with family, when to pass wine
-  - Things like table manners, etiquettes
-    - Also Li
+    - Doing rituals gives us the practical experience to engage appropriately with others
+    - The rituals of a family ex: right place to sit with family, when to pass wine
+    - Things like table manners, etiquettes
+        - Also Li
 
-## The “filial and incorrupt” rank
+## The “Filial and Incorrupt” Rank
 
 - Would survey the region
-  - Found someone who respectably mourned their parents for 3 years 
-  - That would be recorded
-  - They would be offered a government position because they kepyt with Confucian ethics
+    - Found someone who respectably mourned their parents for 3 years
+    - That would be recorded
+    - They would be offered a government position because they kepyt with Confucian ethics
+
 
 ## The Immortals (xian)
 
@@ -626,122 +585,140 @@ https://vod.cuol.ca/vod/vod-lectures?course=RELI+2732&term=201910&crn=14617
 
 - The list of gods that a celestial master could call on in rituals to do their biddings
 - As you get promoted you have access to more gods
-- You can envoke more gods to do your bidding as you promote
+- You can invoke more gods to do your bidding as you promote
 
 ## Soul Silk
 
 - A piece of paper that inscribed with the deceased person's name and details
-- Brought to the bural site and the soul goes into the paper
-- Offerings are made tot he paper
+- Brought to the burial site and the soul goes into the paper
+- Offerings are made to the paper
 - After some time the soul silk gains an ancestor tablet
-- All of the ashes from the incense from the offerings are placed on the 
-  ancestor alter
+- All of the ashes from the incense from the offerings are placed on the
+    ancestor alter
 - Symbolizes a newly dead person to an ancestor
 - Than an ancestor tablet is made
 
 # 21st Century Canada
 
-## Kübler-Ross’ Five Stages of Grief 
+## Kübler-Ross’ Five Stages of Grief
 
 - Stages of someone who is dying or mourning
-  - ex: loss of job, death
+    - ex: loss of job, death
 1. Denial
 2. Anger
 3. Bargaining
-  - Bargain with a higher power to influence the outcome
+    - Bargain with a higher power to influence the outco
 4. Depression
 5. Acceptance
 
 - **Major critique**
-  - It presumes a unified character of grief (sequential)
-  - That every person grieves the same way (normative) 
+    - It presumes a unified character of grief (sequential)
+    - That every person grieves the same way (normative)
 
 ## Bonanno’s Theory of grief
 
 - Grief doesn't follow a linear sequence
 - **Found that there are 3 general apporaches to grief**
+    - Chronic grief
+        - No matter how hard or much time has passed, the grief continues to feel
+        like an open wound
+        - They never get over it
+    - Recovery Pattern
+        - After around a year the individual gradually begins to recover and return
+        to the moderate life satisfaction
+        - Even though they are healthy they still hurt years later
+    - Resilience Pattern
+        - Grief hits them hard, but then as time passes they find a way to adapt to
+        the loss
+        - It's not that they don't care they put the pain aside to meet the demands
+        of life
+
+## Lifton and Olson on “Symbolic Immortality”
+
+- The fear of death is a drive
 - Humans feel a drive of continuity, that they will survive this present moment
 - A quest for some symbolic immortality since humans deal with the existential
 fear of death
 - One major features of 21st Century Canada is that our culture is death denying
-  - We don't think of the death of our love ones
+    - We don't think of the death of our love ones
 
 1. Biological immortality -> AKA biosocial immortality
-2. Creative immortality 
-  - Can acheieve immortality through arts. An art so great your name lives on
-  - ex: symphonies, paintings
-3. Theological immortality 
-  - Take on another form after death varying on your belief/religion
-4. Natural immortality 
-  - The idea that we're apart of a natural cycle
-  - We live than die and our bodies go back into the earth, to the natural world
+2. Creative immortality
+    - Can achieve immortality through arts. An art so great your name lives on
+    - ex: symphonies, paintings
+3. Theological immortality
+    - Take on another form after death varying on your belief/religion
+4. Natural immortality
+    - The idea that we're apart of a natural cycle
+    - We live than die and our bodies go back into the earth, to the natural world
 5. Experiential immortality
-  - The idea that there are certain experiences can be reached through
-    meditation, psychedelic drugs, etc. 
-  - Redefines how death is seen or interpreted  
+    - The idea that there are certain experiences can be reached through
+        meditation, psychedelic drugs, etc.
+    - Redefines how death is seen or interpreted
 
 ## The Most Common Causes of Death in the 21st Century
 
 - Cancer
-- Major cause of the the rise of cancer because humans live longer
-  - Therefore affects more older people
+- Major cause of the rise of cancer because humans live longer
+    - Therefore affects more older people
 
 ## Bill C-14
 
-- In 2016 allows physicsian assisted suicide
-- Under this laws nurse practioners or  physicians may provide a substance to end
+- In 2016 allows physician assisted suicide
+- Under this laws nurse practitioners or    physicians may provide a substance to end
 their own life
-- You need to be covered under candian healthcare
-  - To avoid foreign nationals coming to Canada for the purpose of dying
+- You need to be covered under Canadian healthcare
+    - To avoid foreign nationals coming to Canada for the purpose of dying
 - Need to be 18
 - Need to have a grievance and irredeemable condition
 - Need to give conform consent
 
-## 20th- and 21st-century changes in Canadian approaches to (and understandings of) death 
+## 20th- and 21st-century changes in Canadian approaches to (and understandings of) death
 
 - Medicalization
-  - The removal of death from a familial personal context to an insitutional
-  medical one
-  - For the majority of candians 78% were dying in hospitals (1944)
+    - The removal of death from a familial personal context to an institutional
+    medical one
+    - For the majority of Canadians 78% were dying in hospitals (1944)
 - Professionalization
-  - The removal of family with managing death and all those responsiblies
-  are now on prfessionals
-  - The preparing/cleaning of the body is not done by family members anymores 
-  - Now done by insitutional workers
--Bureaucratization
-  - The laws and precedures that surrounds death in canada
+    - The removal of family with managing death and all those responsibilities
+    are now on professionals
+    - The preparing/cleaning of the body is not done by family members anymore
+    - Now done by institutional workers
+- Bureaucratization
+    - The laws and procedures that surrounds death in Canada
 
 ## Disenfranchised Grief
 
-- The death of someone you had an affair with for example is not acknoledged
-  - Their grief is not supported by society
-  - Their ability to grieve is not given its full weight
-  - Jensen's grandmother had alzeheimers and had no way to express grief since
-  she was still alive
-    - Only other people who have gone through that can understand
-    - ex: disenfranchised grief
+- The death of someone you had an affair with for example is not acknowledged
+    - Their grief is not supported by society
+    - Their ability to grieve is not given its full weight
+    - Jensen's grandmother had Alzheimer's and had no way to express grief since
+    she was still alive
+        - Only other people who have gone through that can understand
+        - ex: disenfranchised grief
 
-## The “phase of negated death,” 
+## The “phase of negated death,”
 
 - The liminal state between the death of the individual and their funeral service
 - The deceased person is in a liminal state of death and life
-- Similar to chinese ritual of calling back the dead
-  - Similar ritual of ressucitaion to try to bring the person back even if they
-  are dead
-  - Once it is clear they're not coming back to life their body is washed by family
-  or a professional (medicalization)
-  - There's a wake where the funeral is going to be carried out
-  - The deceased person is talked to like they are alive
-    - Their spirit is still there
+- Similar to Chinese ritual of calling back the dead
+    - Similar ritual of resuscitation to try to bring the person back even if they
+    are dead
+    - Once it is clear they're not coming back to life their body is washed by family
+    or a professional (medicalization)
+    - There's a wake where the funeral is going to be carried out
+    - The deceased person is talked to like they are alive
+        - Their spirit is still there
+
 ## Muen
 - "Without bonds," "Without ties"
 - The fear of "muen"
-  - The fear of being forgotten
+    - The fear of being forgotten
 - In Japan you don't buy a grave, you lease it
-  - A grave that no longer has a bond (not being paid for by a family) stays 
-  there for a certain amount of years
-  - Afterwards dugged up and the body is placed in an ossuary
-  - Then the grave can be used by another family
+    - A grave that no longer has a bond (not being paid for by a family) stays
+    there for a certain amount of years
+    - Afterwards dug up and the body is placed in an ossuary
+    - Then the grave can be used by another family
 
 
 ## The similarities and differences between funerary practice in contemporary Canada and Japan (case study)
