@@ -100,7 +100,7 @@
 ## Shraddha
 
 - memorial rites
-- pinda: balls of rice
+- **pinda**: balls of rice
     - offered to help make a body for the deceased in the world of ancestors
 - cremation
 - cracking of the skull or ceramic pot to allow soul to escape
@@ -329,10 +329,6 @@
     - hell realms
 - link between realms of rebirth and human emotion/psychology
 
-## Sangha
-
-- community of monks and nuns in Buddhism
-
 ## The Four Noble Truths
 
 - life is not satisfactory (suffering)
@@ -340,25 +336,83 @@
 - craving can cease
 - cessation of craving through the eightfold path
 
-## Jataka
+## Naraka (Hells)
+
+- hells exist as temporary realms of rebirth
+    - a place to gt rid of bad karma
+    - if you don't make it, you go back
+- variety of different hells, associated with various sins in life
 
 ## Transfer of Merit
 
+- generate merit
+
 ## Relic
+
+- the pieces of the buddha's body
+- 8 of them
+    - 7 for humans
+    - 1 for the nagas
 
 ## Stupa
 
-## Course Meditation
+- mound or heap
+- housed material remains of the buddha after his death
+    - the relics
+- equivalent to being in the presence of the buddha
+- later, stupas were also for arhats
 
-## Idealized Path of Arhat vs Common Path of Good Walks
+## Corpse Meditation
+
+- mediate to engage with impermanence of the human body
+- body is made up of elements
+    - dependent origination
+
+## Sangha
+
+- community of monks and nuns in Buddhism
+
+## Jataka
+
+- texts that reveal how one might become a Buddha
+    - this is extremely rare! -> once per kalpa (extremely long amount of time)
+- each story tells about one of the bodhisattva's enumerable previous lives
+- gradually perfects his traits over all his lives
 
 ## Similarities and Differences of Karma, Samsara, and Soteriology Between Hinduism, Jainism, and Buddhism
 
 - buddhism
-    - constant cycle of life death and rebirth
-    - good and bad
+    - karma can be good and bad
+    - six possible realms of rebirth, depending on karma
     - karma
-    - only hope is to attain liberation
+    - only hope is to attain liberation (nirvana and then parinirvana)
+- jainism
+    - all karma is bad
+    - need to discard it to escape samsara
+    - discard karma through asceticism and sallekhana
+- hinduism
+    - karma can be good and bad
+    - vedic hunduism -> karma = ritual action
+    - upanshadic hinduism -> karma = all action
+    - eventually you can attain moksha by becoming a sannyasan and accepting the truth of Brahman within (Atman)
+
+## Differences Between Hindu and Buddhist Gods and Ghosts
+
+- preda (hungry ghosts)
+    - Hinduism -> ancestors not being fed properly
+    - Buddhism -> reborn as a hungry ghost based on karma
+
+## Idealized Path of Arhat vs Common Path of Good Walks
+
+- arhat
+    - follow the eightfold path
+    - achieve nirvana
+    - at the end of the life, achieve parinirvana
+- path of good walks
+
+## Perfect Generosity in Hare Jataka
+
+## Symbolism and Ritual Forms of Theravada Funeral
 
 ## Key Words in Texts
 
@@ -370,17 +424,8 @@
 
 
 
-
 # Mahayana Buddhism
 
-
-
-
-
-
-
-
-# Early Buddhism II
 
 
 
