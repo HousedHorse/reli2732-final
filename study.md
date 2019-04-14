@@ -156,16 +156,6 @@
 - "reborn" as sannyasan (one who follows sannyasa, renunciant)
 - their body will no longer be burned when they die
 
-## Key Words in Texts
-
-- the man
-- veda
-- dharma
-- brahmin
-- agni
-- yama
-
-
 
 
 
@@ -232,18 +222,6 @@
 - all karma is bad karma
 - needs to be discarded or burned away to attain moksha
 - karma weighs you down and prevents you from rising to escape samsara
-
-## Key Words in Texts
-
-- jina
-- jiva
-- sallekhana
-- punya
-- pap
-- mahavira
-- tithankara
-- talking about things being repugnant
-- talking about the human body being disgusting or vile
 
 
 
@@ -426,10 +404,6 @@
 
 - transfer of merit to the departed
 - reminder of life's impermanence
-
-## Key Words in Texts
-
-- the blessed one
 
 
 
